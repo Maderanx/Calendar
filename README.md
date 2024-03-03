@@ -28,10 +28,6 @@ This project does not have any external dependencies. It uses standard C librari
 
 Contributions to this project are welcome. Feel free to fork the repository, make changes, and submit pull requests.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 This C calendar project provides a simple yet useful tool for managing dates, days, and notes. Whether you need to check the day of the week or keep track of important events, this program has you covered!
